@@ -1,5 +1,6 @@
 ## Interface: 120100, 120105, 120007
 ## AllowLoadGameType: standard
+# 插件清单：版本、作者和要加载的文件。
 
 ## Title: BigWigs Voice |cffFFC0CBS|cffF4A3C4a|cffE69EB7t|cffD8A9AAo|cffCBB5A0u|cffBEC1A8Y|cffB1CDAFu|cffA4D9B5m|cff97E5BCe|cff8AE1C2i|r
 ## Version: 12.1.0
