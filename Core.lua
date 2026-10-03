@@ -1,3 +1,4 @@
+-- 收到技能提示后，按 FilePaths 里的目录播放语音。
 BigWigs_Voice_SatouYumei = BigWigs_Voice_SatouYumei or {}
 local addon = BigWigs_Voice_SatouYumei
 addon.SendMessage = BigWigsLoader.SendMessage
