@@ -1,4 +1,4 @@
--- 技能语音按资料片和副本分目录。注释是实际播放的中文。
+-- 技能编号对应的语音目录。注释是实际播放的中文台词。
 BigWigs_Voice_SatouYumei = BigWigs_Voice_SatouYumei or {}
 BigWigs_Voice_SatouYumei.FilePaths = {
 
