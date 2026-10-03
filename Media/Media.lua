@@ -1,3 +1,4 @@
+-- 注册可以单独选用的自定义语音。1 到 10 秒倒计时在 Media\Sounds。
 local media = LibStub("LibSharedMedia-3.0")
 
 local SOUND = media.MediaType and media.MediaType.SOUND or "sound"
