@@ -15,6 +15,22 @@ jobs:
         with:
           fetch-depth: 0
 
+      # 文件名：标签日期（北京时间）+ 当天第几个标签，例如 2026110201_BigWigs_Voice_SatouYumei。
+      - name: Name the upload
+        id: name
+        run: |
+          git fetch --force --tags origin
+          day() { TZ=Asia/Shanghai date -d "@$1" +%Y%m%d; }
+          this=$(git for-each-ref "refs/tags/$GITHUB_REF_NAME" --format='%(creatordate:unix)')
+          today=$(day "$this")
+          n=0
+          for t in $(git for-each-ref refs/tags --format='%(creatordate:unix)'); do
+            if [ "$(day "$t")" = "$today" ] && [ "$t" -le "$this" ]; then n=$((n + 1)); fi
+          done
+          echo "file=${today}$(printf %02d "$n")_BigWigs_Voice_SatouYumei" >> "$GITHUB_OUTPUT"
+
       - uses: BigWigsMods/packager@v2
+        with:
+          args: -n "${{ steps.name.outputs.file }}:${{ steps.name.outputs.file }}"
         env:
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
