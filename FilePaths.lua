@@ -157,6 +157,8 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	-- BattleForAzeroth\Dungeon\TempleOfSethraliss
 	[264172] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\", -- 注意躲圈
 	[1288049] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\", -- 集合分摊
+	[1288428] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\", -- 坦克承伤
+	[1288864] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\", -- 靠边放风
 	[1289059] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\", -- 注意站位
 	[1289109] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\", -- 注意点名
 	[1289205] = "BattleForAzeroth\\Dungeon\\TempleOfSethraliss\\", -- 召唤增援
@@ -351,6 +353,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[451614] = "Cataclysm\\Dungeon\\GrimBatol\\", -- 注意脚下
 	[451871] = "Cataclysm\\Dungeon\\GrimBatol\\", -- 打断震颤
 	[451939] = "Cataclysm\\Dungeon\\GrimBatol\\", -- 快卡视野
+	[451965] = "Cataclysm\\Dungeon\\GrimBatol\\", -- 注意治疗
 	[451971] = "Cataclysm\\Dungeon\\GrimBatol\\", -- 坦克承伤
 	[456696] = "Cataclysm\\Dungeon\\GrimBatol\\", -- 注意脚下
 	[456711] = "Cataclysm\\Dungeon\\GrimBatol\\", -- 注意冲击波
@@ -564,6 +567,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[384014] = "Dragonflight\\Dungeon\\HallsOfInfusion\\", -- aoe准备
 	[384351] = "Dragonflight\\Dungeon\\HallsOfInfusion\\", -- 注意脚下
 	[384524] = "Dragonflight\\Dungeon\\HallsOfInfusion\\", -- 躲开正面
+	[385141] = "Dragonflight\\Dungeon\\HallsOfInfusion\\", -- 注意脚下
 	[385187] = "Dragonflight\\Dungeon\\HallsOfInfusion\\",
 	[385442] = "Dragonflight\\Dungeon\\HallsOfInfusion\\", -- aoe准备
 	[385531] = "Dragonflight\\Dungeon\\HallsOfInfusion\\", -- 注意脚下
@@ -757,37 +761,6 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[377500] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\", -- 打断时光
 	[377732] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\", -- 打断锯齿
 	[381593] = "Dragonflight\\Dungeon\\UldamanLegacyOfTyr\\", -- 快卡视野
-
-	-- Dragonflight\Dungeon\格瑞姆巴托
-	[451965] = "Dragonflight\\Dungeon\\格瑞姆巴托\\", -- 注意治疗
-
-	-- Dragonflight\Dungeon\黑心林地
-	[200642] = "Dragonflight\\Dungeon\\黑心林地\\", -- 帮忙驱散
-
-	-- Dragonflight\Dungeon\矶石宝库
-	[457465] = "Dragonflight\\Dungeon\\矶石宝库\\", -- 注意脚下
-
-	-- Dragonflight\Dungeon\千丝之城
-	[443397] = "Dragonflight\\Dungeon\\千丝之城\\", -- 帮忙驱散
-
-	-- Dragonflight\Dungeon\塞塔里斯神庙
-	[1288428] = "Dragonflight\\Dungeon\\塞塔里斯神庙\\", -- 坦克承伤
-	[1288864] = "Dragonflight\\Dungeon\\塞塔里斯神庙\\", -- 靠边放风
-
-	-- Dragonflight\Dungeon\塔扎维什
-	[346959] = "Dragonflight\\Dungeon\\塔扎维什\\", -- 注意脚下
-
-	-- Dragonflight\Dungeon\永茂林地
-	[166492] = "Dragonflight\\Dungeon\\永茂林地\\", -- 注意躲圈
-	[166726] = "Dragonflight\\Dungeon\\永茂林地\\", -- 快躲开
-	[167977] = "Dragonflight\\Dungeon\\永茂林地\\", -- 注意脚下
-	[168105] = "Dragonflight\\Dungeon\\永茂林地\\", -- 进攻驱散
-	[169376] = "Dragonflight\\Dungeon\\永茂林地\\", -- 帮忙驱散
-	[169382] = "Dragonflight\\Dungeon\\永茂林地\\", -- 注意脚下
-	[428823] = "Dragonflight\\Dungeon\\永茂林地\\", -- 大怪出现
-
-	-- Dragonflight\Dungeon\注能大厅
-	[385141] = "Dragonflight\\Dungeon\\注能大厅\\", -- 注意脚下
 
 	-- Dragonflight\Raid\Aberrus,TheShadowedCrucible
 	[397383] = "Dragonflight\\Raid\\Aberrus,TheShadowedCrucible\\", -- 护盾快打
@@ -1092,9 +1065,6 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[397387] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\", -- 攻击护盾
 	[399713] = "Dragonflight\\Raid\\VaultOfTheIncarnates\\", -- 注意点名
 
-	-- Dragonflight\Raid\法力熔炉 欧米伽
-	[1237084] = "Dragonflight\\Raid\\法力熔炉 欧米伽\\", -- 注意躲线
-
 	-- Legion\Dungeon\BlackRookHold
 	[194956] = "Legion\\Dungeon\\BlackRookHold\\", -- 震慑波
 	[194966] = "Legion\\Dungeon\\BlackRookHold\\", -- 注意脚下
@@ -1144,6 +1114,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[200243] = "Legion\\Dungeon\\DarkheartThicket\\", -- 找人靠近
 	[200289] = "Legion\\Dungeon\\DarkheartThicket\\", -- 跑开人群
 	[200630] = "Legion\\Dungeon\\DarkheartThicket\\", -- 快打断
+	[200642] = "Legion\\Dungeon\\DarkheartThicket\\", -- 帮忙驱散
 	[200658] = "Legion\\Dungeon\\DarkheartThicket\\", -- 快打断
 	[200684] = "Legion\\Dungeon\\DarkheartThicket\\", -- 帮忙驱散
 	[200768] = "Legion\\Dungeon\\DarkheartThicket\\", -- 冲锋快躲
@@ -1361,6 +1332,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 
 	-- Midnight\Raid\TheTideboundGrotto
 	[1257608] = "Midnight\\Raid\\TheTideboundGrotto\\", -- 靠边放水
+	[1257717] = "Midnight\\Raid\\TheTideboundGrotto\\", -- 召唤增援
 	[1258668] = "Midnight\\Raid\\TheTideboundGrotto\\", -- 注意躲避
 	[1260837] = "Midnight\\Raid\\TheTideboundGrotto\\", -- 注意血量
 	[1276710] = "Midnight\\Raid\\TheTideboundGrotto\\", -- 召唤增援
@@ -1405,6 +1377,9 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[1300751] = "Midnight\\Raid\\TheVenomousAbyss\\", -- 蛇蛋出现
 	[1301510] = "Midnight\\Raid\\TheVenomousAbyss\\", -- 换场准备
 	[1308356] = "Midnight\\Raid\\TheVenomousAbyss\\", -- 召唤增援
+	[1308556] = "Midnight\\Raid\\TheVenomousAbyss\\", -- 注意脚下
+	[1310738] = "Midnight\\Raid\\TheVenomousAbyss\\", -- 准备大怪
+	[1310763] = "Midnight\\Raid\\TheVenomousAbyss\\", -- 快进屏障
 
 	-- Midnight\Raid\TheVoidspire
 	[1237837] = "Midnight\\Raid\\TheVoidspire\\", -- 召唤增援
@@ -1434,14 +1409,6 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[1261339] = "Midnight\\Raid\\TheVoidspire\\", -- 召唤增援
 	[1262623] = "Midnight\\Raid\\TheVoidspire\\", -- 注意吐息
 	[1265131] = "Midnight\\Raid\\TheVoidspire\\", -- 威厄之翼
-
-	-- Midnight\Raid\潮缚石窟
-	[1257717] = "Midnight\\Raid\\潮缚石窟\\", -- 召唤增援
-
-	-- Midnight\Raid\烈毒之渊
-	[1308556] = "Midnight\\Raid\\烈毒之渊\\", -- 注意脚下
-	[1310738] = "Midnight\\Raid\\烈毒之渊\\", -- 准备大怪
-	[1310763] = "Midnight\\Raid\\烈毒之渊\\", -- 快进屏障
 
 	-- Shadowlands\Dungeon\HallsOfAtonement
 	[319733] = "Shadowlands\\Dungeon\\HallsOfAtonement\\", -- 召唤增援
@@ -1545,6 +1512,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[346766] = "Shadowlands\\Dungeon\\Tazavesh\\", -- 阶段转换
 	[346947] = "Shadowlands\\Dungeon\\Tazavesh\\", -- 准备道具
 	[346957] = "Shadowlands\\Dungeon\\Tazavesh\\",
+	[346959] = "Shadowlands\\Dungeon\\Tazavesh\\", -- 注意脚下
 	[346961] = "Shadowlands\\Dungeon\\Tazavesh\\", -- 注意脚下
 	[346962] = "Shadowlands\\Dungeon\\Tazavesh\\", -- 集合分摊
 	[347094] = "Shadowlands\\Dungeon\\Tazavesh\\", -- 注意正面/躲开正面
@@ -1915,6 +1883,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[1220472] = "TheWarWithin\\Delves\\", -- 打断过载
 	[1220665] = "TheWarWithin\\Delves\\", -- 注意躲圈
 	[1220869] = "TheWarWithin\\Delves\\", -- 注意减伤
+	[1225642] = "TheWarWithin\\Delves\\", -- 特殊技能
 	[1227334] = "TheWarWithin\\Delves\\", -- 打断维护
 	[1227345] = "TheWarWithin\\Delves\\", -- 打断防御
 	[1231144] = "TheWarWithin\\Delves\\", -- 注意吐息
@@ -1940,6 +1909,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[1244249] = "TheWarWithin\\Delves\\", -- 注意冲锋
 	[1244313] = "TheWarWithin\\Delves\\", -- 注意躲圈
 	[1244462] = "TheWarWithin\\Delves\\", -- 影子出现
+	[1245035] = "TheWarWithin\\Delves\\", -- 正面接招
 	[1245156] = "TheWarWithin\\Delves\\", -- 首领出现
 	[1245203] = "TheWarWithin\\Delves\\", -- 正面接招
 	[1245240] = "TheWarWithin\\Delves\\", -- 注意射线
@@ -1948,10 +1918,6 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[1245746] = "TheWarWithin\\Delves\\", -- 注意脚下
 	[1245765] = "TheWarWithin\\Delves\\", -- 注意吐息
 	[1245784] = "TheWarWithin\\Delves\\", -- 注意躲圈
-
-	-- TheWarWithin\Delves\卡雷什
-	[1225642] = "TheWarWithin\\Delves\\卡雷什\\", -- 特殊技能
-	[1245035] = "TheWarWithin\\Delves\\卡雷什\\", -- 正面接招
 
 	-- TheWarWithin\Dungeon\Ara-Kara,CityOfEchoes
 	[432031] = "TheWarWithin\\Dungeon\\Ara-Kara,CityOfEchoes\\", -- 快转火
@@ -2043,6 +2009,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[441298] = "TheWarWithin\\Dungeon\\CityOfThreads\\", -- 帮忙分担/找人分摊
 	[441384] = "TheWarWithin\\Dungeon\\CityOfThreads\\", -- 注意冲锋
 	[441395] = "TheWarWithin\\Dungeon\\CityOfThreads\\", -- 准备特殊技能
+	[443397] = "TheWarWithin\\Dungeon\\CityOfThreads\\", -- 帮忙驱散
 	[443430] = "TheWarWithin\\Dungeon\\CityOfThreads\\", -- 打断缠缚
 	[443433] = "TheWarWithin\\Dungeon\\CityOfThreads\\", -- 快打断
 	[443437] = "TheWarWithin\\Dungeon\\CityOfThreads\\", -- 你被点名
@@ -2327,6 +2294,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[449154] = "TheWarWithin\\Dungeon\\TheStonevault\\", -- 帮忙驱散
 	[449167] = "TheWarWithin\\Dungeon\\TheStonevault\\", -- 注意宝珠
 	[449455] = "TheWarWithin\\Dungeon\\TheStonevault\\", -- 打断咆哮
+	[457465] = "TheWarWithin\\Dungeon\\TheStonevault\\", -- 注意脚下
 
 	-- TheWarWithin\Raid\KhazAlgar
 	[450407] = "TheWarWithin\\Raid\\KhazAlgar\\", -- 震慑波
@@ -2526,6 +2494,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[1234529] = "TheWarWithin\\Raid\\ManaforgeOmega\\", -- 宇宙之喉
 	[1235045] = "TheWarWithin\\Raid\\ManaforgeOmega\\", -- 注意脚下
 	[1235114] = "TheWarWithin\\Raid\\ManaforgeOmega\\",
+	[1237084] = "TheWarWithin\\Raid\\ManaforgeOmega\\", -- 注意躲线
 	[1237097] = "TheWarWithin\\Raid\\ManaforgeOmega\\",
 	[1237212] = "TheWarWithin\\Raid\\ManaforgeOmega\\", -- 贯体束丝
 	[1237272] = "TheWarWithin\\Raid\\ManaforgeOmega\\", -- 蛛网出现
@@ -2686,8 +2655,14 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[164887] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 快打断
 	[164965] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 快打断
 	[165213] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 快打断
+	[166492] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 注意躲圈
+	[166726] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 快躲开
+	[167977] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 注意脚下
 	[168082] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 快打断
+	[168105] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 进攻驱散
 	[169179] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 震慑波
+	[169376] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 帮忙驱散
+	[169382] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 注意脚下
 	[169494] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 注意脚下
 	[169613] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 快踩小花
 	[169929] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 躲开正面
@@ -2701,6 +2676,7 @@ BigWigs_Voice_SatouYumei.FilePaths = {
 	[427899] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- aoe准备
 	[428082] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 快跑
 	[428139] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 远离宝珠
+	[428823] = "WarlordsOfDraenor\\Dungeon\\TheEverbloom\\", -- 大怪出现
 
 	-- WrathOfTheLichKing\Dungeon\PitOfSaron
 	[1261299] = "WrathOfTheLichKing\\Dungeon\\PitOfSaron\\", -- 注意点名
