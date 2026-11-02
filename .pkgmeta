@@ -1,0 +1,11 @@
+# 打包上传 CurseForge 时用。下面这些是开发资料，不放进安装包。
+package-as: BigWigs_Voice_SatouYumei
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - OriginalVoices
+  - MissingVoices.csv
+  - Handover.md
