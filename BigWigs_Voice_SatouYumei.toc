@@ -3,7 +3,7 @@
 # 插件清单：版本、作者和要加载的文件。
 
 ## Title: BigWigs Voice |cffFFC0CBS|cffF4A3C4a|cffE69EB7t|cffD8A9AAo|cffCBB5A0u|cffBEC1A8Y|cffB1CDAFu|cffA4D9B5m|cff97E5BCe|cff8AE1C2i|r
-## Version: 12.1.0
+## Version: 12.1.1
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-zhCN: BigWigs附加模块，为团队首领技能播放语音提示。反馈请到 https://satouyumei.flowus.cn/
 ## Notes-zhTW: BigWigs附加模組，為團隊首領技能播放語音提示。回饋請到 https://satouyumei.flowus.cn/
